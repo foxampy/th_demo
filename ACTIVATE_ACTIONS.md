@@ -13,7 +13,7 @@
 3. Нажмите **New repository secret**
 4. Добавьте:
    - **Name**: `TELEGRAM_BOT_TOKEN`
-   - **Value**: `8591869020:AAFnlsirUwd3TKMibAWDE209OBwVU40ZEjo`
+   - **Value**: `<TELEGRAM_BOT_TOKEN>`
 5. Нажмите **Add secret**
 
 ### Шаг 2: Запустите workflow вручную

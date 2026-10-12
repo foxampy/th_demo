@@ -7,7 +7,7 @@
 3. Нажмите **New repository secret**
 4. Добавьте секрет:
    - **Name**: `TELEGRAM_BOT_TOKEN`
-   - **Value**: `8591869020:AAFnlsirUwd3TKMibAWDE209OBwVU40ZEjo`
+   - **Value**: `<TELEGRAM_BOT_TOKEN>`
 
 ## Шаг 2: Настройка GitHub Actions
 

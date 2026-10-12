@@ -43,7 +43,9 @@ def setup_env():
         return
     
     # Use provided token or ask user
-    token = os.getenv("TELEGRAM_BOT_TOKEN", "8591869020:AAFnlsirUwd3TKMibAWDE209OBwVU40ZEjo")
+    token = os.getenv("TELEGRAM_BOT_TOKEN", "")
+    if not token:
+        token = input("TELEGRAM_BOT_TOKEN: ").strip()
     
     env_content = ENV_TEMPLATE.format(token=token)
     

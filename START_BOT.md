@@ -18,7 +18,7 @@ python -m pip install -r requirements.txt
 
 ```bash
 # Токен должен быть в .env файле
-TELEGRAM_BOT_TOKEN=8591869020:AAFnlsirUwd3TKMibAWDE209OBwVU40ZEjo
+TELEGRAM_BOT_TOKEN=<TELEGRAM_BOT_TOKEN>
 ```
 
 Если файла нет, создайте его:

@@ -13,7 +13,7 @@
 2. Создайте новый проект
 3. Подключите GitHub репозиторий `TimurSama/th_demo`
 4. Добавьте переменную окружения:
-   - `TELEGRAM_BOT_TOKEN` = `8591869020:AAFnlsirUwd3TKMibAWDE209OBwVU40ZEjo`
+   - `TELEGRAM_BOT_TOKEN` = `<TELEGRAM_BOT_TOKEN>`
 5. Railway автоматически запустит бота из `main.py`
 
 **Плюсы:** Бесплатно, просто, автоматический деплой
